@@ -1,0 +1,24 @@
+{
+  "name": "microsoft-events",
+  "version": "1.0.0",
+  "description": "Tolling for Microsoft events",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jhorlin/microsoft-events.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jhorlin/microsoft-events/issues"
+  },
+  "homepage": "https://github.com/Jhorlin/microsoft-events#readme",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
